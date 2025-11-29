@@ -65,16 +65,6 @@ Passionate about building **scalable Java applications**, exploring **Spring Boo
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Raushan1156&show_icons=true" alt="stats" />
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raushan1156" alt="streak" />
-</p>
-
----
-
 ## 📌 Featured Projects
 - 🔥 **Spring Boot REST API** — A production-ready API with layered architecture
 - 💼 **Employee Management System** — CRUD + MySQL + Spring Boot + Validation
@@ -85,7 +75,7 @@ Passionate about building **scalable Java applications**, exploring **Spring Boo
 ## 🚀 Current Focus
 - Sharpening Spring Boot knowledge
 - Building structured, production-style projects
-- Practicing problem solving regularly
+- Practicing problem-solving regularly
 
 ---
 
