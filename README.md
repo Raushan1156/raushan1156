@@ -57,28 +57,6 @@ Passionate about building **scalable Java applications**, exploring **Spring Boo
 
 ---
 
-## 🎨 Developer Personality
-> "Code. Learn. Break. Fix. Repeat." — My everyday cycle.
-
-💡 I believe in writing **clean, readable and meaningful** code.
-🔥 I improve by **1% every day**, consistently.
-
----
-
-## 📌 Featured Projects
-- 🔥 **Spring Boot REST API** — A production-ready API with layered architecture
-- 💼 **Employee Management System** — CRUD + MySQL + Spring Boot + Validation
-- 🌐 **Portfolio Website** — Clean, responsive, developer-focused
-
----
-
-## 🚀 Current Focus
-- Sharpening Spring Boot knowledge
-- Building structured, production-style projects
-- Practicing problem-solving regularly
-
----
-
 ## 🎯 Fun Fact
 I prefer **understanding the "why"** behind everything I learn — not just the "how".
 
