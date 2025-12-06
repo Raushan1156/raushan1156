@@ -1,7 +1,14 @@
-<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0:E6DADA,100:CDC1FF"/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Raushan+Kumar;Backend+Java+Developer;Spring+Boot+Enthusiast;Continuous+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=700&color=6A5ACD&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Raushan+Kumar;Backend+Java+Developer;Spring+Boot+Enthusiast;Continuous+Learner" />
 </p>
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raushan1156&label=Profile%20Views&color=0e75b6&style=flat" />
